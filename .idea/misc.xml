@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Tugas Kuliah Semester 4/Pengembangan Aplikasi Mobile/Activity8/app/src/main/res/layout/activity_edit_teman.xml" value="0.16666666666666666" />
         <entry key="..\:/Tugas Kuliah Semester 4/Pengembangan Aplikasi Mobile/Activity8/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Tugas Kuliah Semester 4/Pengembangan Aplikasi Mobile/Activity8/app/src/main/res/layout/row_data_teman.xml" value="0.1" />
         <entry key="..\:/Tugas Kuliah Semester 4/Pengembangan Aplikasi Mobile/Activity8/app/src/main/res/layout/tambah_teman.xml" value="0.22" />
+        <entry key="..\:/Tugas Kuliah Semester 4/Pengembangan Aplikasi Mobile/Activity8/app/src/main/res/menu/popup1.xml" value="0.12" />
       </map>
     </option>
   </component>
